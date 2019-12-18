@@ -1,0 +1,54 @@
+* {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+body {
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    margin: 5px;
+}
+
+.navimg {
+    height: 350px;
+    margin: 0px auto;
+    background-color: aliceblue;
+}
+
+nav span {
+    padding: 3px;
+    display: block;
+    font-size: 20px;
+    font-weight: 200;
+    letter-spacing: 2px;
+    min-width: 320px;
+}
+
+nav a {
+    color: #666666
+}
+
+.hide {
+    visibility: hidden;
+}
+
+.buein {
+    font-weight: 23;
+    font-size: 18px;
+    letter-spacing: 1px;
+    padding: 20px;
+    color: black;
+}
+
+.fuss {
+    text-align: left;
+    padding: 35px;
+    font-size: 14px;
+    font-weight: 100;
+}
+
+.bu {
+    padding: 30px;
+}
