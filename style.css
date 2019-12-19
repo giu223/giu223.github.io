@@ -53,3 +53,7 @@ nav a {
 .bu {
     padding: 30px;
 }
+
+table, td {
+    border: 1px solid black;
+  }
