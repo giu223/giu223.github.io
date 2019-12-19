@@ -56,4 +56,5 @@ nav a {
 
 table, td {
     border: 1px solid black;
+    align-items: center;
   }
