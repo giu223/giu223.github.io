@@ -1,22 +1,19 @@
 * {
-    margin: 0;
+    margin: 0px;
     padding: 0;
-    list-style: none;
 }
 
 body {
     text-align: center;
-    font-family: 'Roboto';
+    font-family: 'Roboto', sans-serif;
     font-size: 18px;
     margin: 5px;
-    font-weight: 700;
 }
 
 .navimg {
     height: 350px;
     margin: 0px auto;
     background-color: aliceblue;
-    align-items: center;
 }
 
 nav span {
@@ -37,25 +34,30 @@ nav a {
 }
 
 .buein {
-    font-weight: 700;
+    font-weight: 23;
     font-size: 18px;
     letter-spacing: 1px;
     padding: 20px;
     color: black;
 }
 
-.aut {
+.fuss {
     text-align: left;
     padding: 35px;
     font-size: 14px;
     font-weight: 100;
 }
 
-.bu {
-    padding: 30px;
+.bu h1,h2,h3,h4,h5 {
+    text-align: center;
 }
 
-table, td {
-    border: 1px solid black;
-    align-items: center;
+.auflistung {
+    list-style-position: inside;
+    list-style: square;
+    color: goldenrod;
+}
+
+.auflistung a {
+    color: navy;
   }
